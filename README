@@ -1,0 +1,6 @@
+# 1q50iq_tq_create_repo.zsh
+Script for:
+1) Accepting statement
+2) Generating git repository
+3) Adding all files to repo
+4) Providing `git commit` with message that may include message parameter
